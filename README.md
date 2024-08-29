@@ -38,7 +38,7 @@ Lista de Tarefa (Checklist)
 ---
 
 Cod | Nome | Numero
----|---|---
+:---:|---:|:---:
 1|Juca|16
 2|Pirama|37
 3|Casemiro|21
